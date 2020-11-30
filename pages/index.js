@@ -20,7 +20,7 @@ export default function Home() {
         </p>
 
         <div className={styles.grid}>
-          <a href="mailto:manjunathamaresh@gmail.com?subject=Hello from the web" className={styles.link}>Mail</a>
+          <a href="mailto:manjunathamaresh@gmail.com" className={styles.link}>Mail</a>
           <a href="https://www.linkedin.com/in/manjunathamaresh" target="_blank" className={styles.link}>LinkedIn</a>
           <a href="https://www.instagram.com/manju.amaresh/" target="_blank" className={styles.link}>Instagram</a>
         </div>
