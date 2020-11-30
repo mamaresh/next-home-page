@@ -6,7 +6,7 @@ export default function Home() {
     <div className={styles.container}>
       <Head>
         <title>Manju Amaresh</title>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/m.ico" />
         <link rel="preconnect" href="https://fonts.gstatic.com" />
         <link href="https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@300&family=Noto+Sans+KR:wght@700&display=swap" rel="stylesheet" />
       </Head>
