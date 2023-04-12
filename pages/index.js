@@ -22,6 +22,7 @@ export default function Home() {
 
         <div className={styles.grid}>
           <a href="mailto:manjunathamaresh@gmail.com" target="_blank" className={styles.link}>Mail</a>
+          <a href="photos.manjunathamaresh.com" target="_blank" className={styles.link}>Photos</a>
           <a href="https://www.linkedin.com/in/manjunathamaresh" target="_blank" className={styles.link}>LinkedIn</a>
           <a href="https://www.instagram.com/manju.amaresh/" target="_blank" className={styles.link}>Instagram</a>
         </div>
