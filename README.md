@@ -13,4 +13,4 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## End product
 - [My homepage](https://manjunath.me/)
-- Powered by [DigitalOcean](https://docs.digitalocean.com/products/droplets/) 
+- [![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%202.svg)](https://www.digitalocean.com/?refcode=b7e5fefea1c0&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge) 
